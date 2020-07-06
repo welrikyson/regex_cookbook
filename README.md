@@ -1,31 +1,40 @@
 # RegEx Cookbook
 > CookBook for Regular Expressions
-<!-- 
+ 
 ## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
+* [General info](#general-info) <!--* [Screenshots](#screenshots)-->
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
+* [Setup](#setup) <!--* [Features](#features)-->
+* [Status](#status) <!--* [Inspiration](#inspiration)-->
 * [Contact](#contact)
 
+
+
+
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+My notes while learning regular expressions
+<!--Add more general information about project. What the purpose of the project is? Motivation?
+-->
 
-## Screenshots
+<!--## Screenshots
 ![Example screenshot](./img/screenshot.png)
-
+-->
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* NodeJs - version 12.18.1
+* Yarn - version 1.22.4
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
 
-## Code Examples
+<!--Describe how to install / setup your local environement / add link to demo version.-->
+For install the sample, execute the commands bellow:
+
+```bash
+git clone https://github.com/welrikyson/regex_cookbook
+cd curson_regex
+yarn install
+```
+
+<!--## Code Examples
 Show examples of usage:
 `put-your-code-here`
 
@@ -37,13 +46,13 @@ List of features ready and TODOs for future development
 
 To-do list:
 * Wow improvement to be done 1
-* Wow improvement to be done 2
+* Wow improvement to be done 2 -->
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
+Project is: _in progress_ <!--_finished_, _no longer continue_ and why?
+-->
+<!-- ## Inspiration
 Add here credits. Project inspired by..., based on...
 -->
 ## Contact
-Created by [@welrikyson](https://www.facebook.com/profile.php?id=100007176738208https://www.facebook.pl/) - feel free to contact me!
+Created by [@welrikyson](https://www.facebook.com/profile.php?id=100007176738208https://www.facebook.pl/) .
